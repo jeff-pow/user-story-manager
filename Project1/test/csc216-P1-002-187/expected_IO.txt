@@ -1,0 +1,13 @@
+# My Project
+* 2,Working,Math Solver,Low,jrpowel9,
+- Student
+- Program that will do my math homework
+- Have more free time
+* 3,Rejected,Math Solver,Infeasible
+- Student
+- Program that will do my math homework
+- Have more free time
+* 4,Submitted,Math Solver,
+- Student
+- Program that will do my math homework
+- Have more free time

@@ -1,0 +1,30 @@
+# WolfScheduler
+* 3,Backlog,Export Schedule,Low,
+- student
+a second line on a user
+to test that second and third lines work
+- export my schedule
+- so it's available when I register for classes
+* 4,Submitted,Change Title,
+- student
+- change the title of my schedule
+this is a second line to test that second lines work
+- so I can have different schedules to consider
+* 0,Completed,Load Catalog,High,sesmith5
+- student
+- load a course catalog file
+- plan a schedule for next semester
+* 5,Rejected,Post to Piazza,Inappropriate
+- student
+- post my schedule to Piazza for feedback
+- see which of my friends are interested in taking the same courses
+* 2,Working,Add Event,Medium,ignacioxd
+- student
+- add a recurring event
+- schedule extra curricular activities
+* 1,Verifying,Select Course,Medium,jctetter
+- student
+- select a course to add to my schedule
+- plan a schedule for next semester
+a second and third
+line on value to test that those work

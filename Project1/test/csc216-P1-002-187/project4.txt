@@ -1,0 +1,4 @@
+* 0,Completed,Load Catalog,High,sesmith5
+- student
+- load a course catalog file
+- plan a schedule for next semester

@@ -1,0 +1,30 @@
+# WolfScheduler
+* 0,Completed,Load Catalog,High,sesmith5
+- student
+- load a course catalog file
+- plan a schedule for next semester
+* 1,Verifying,Select Course,Medium,jctetter
+- student
+- select a course to add to my schedule
+- plan a schedule for next semester
+* 2,Working,Add Event,Medium,ignacioxd
+- student
+- add a recurring event
+- schedule extra curricular activities
+* 3,Backlog,Export Schedule,Low
+- student
+- export my schedule
+- so it's available when I register for classes
+* 4,Submitted,Change Title
+- student
+- change the title of my schedule
+- so I can have different schedules to consider
+* 5,Rejected,Post to Piazza,Inappropriate
+- student
+- post my schedule to Piazza for feedback
+- see which of my friends are interested in taking the same courses
+# PackScheduler
+* 1,Backlog,Load Student Directory,High
+- administrator
+- load the student directory into the registration system
+- students can register for classes next semester
